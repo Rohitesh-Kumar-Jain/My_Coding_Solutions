@@ -1,2 +1,2 @@
 # LeetcodeSolutions
-This is my collection for leetcode programming solutions. 
+This is my collection of leetcode programming solutions. 
