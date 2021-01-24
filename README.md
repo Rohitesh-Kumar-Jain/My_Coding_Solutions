@@ -1,10 +1,10 @@
 # LeetcodeSolutions
-This is my collection of competitve programming solutions. 
+This is my collection of mostly Leetcode programming solutions along with other CP solutions. 
 
 Following Contributions are accepted in this repository : 
 
 1) Better solutions for the existing solutions are welcomed.
-2) Your personal Java techniques and tricks are welcomed. 
+2) Your personal Java/MYSQL techniques and tricks are welcomed. 
 
 Following Contributions are not welcomed:
 1) Contributions which are in a language other than JAVA or MYSQL. 
