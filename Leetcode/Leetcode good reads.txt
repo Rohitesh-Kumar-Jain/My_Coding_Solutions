@@ -1,4 +1,42 @@
+// DP
 https://leetcode.com/discuss/general-discussion/1050391/must-do-dynamic-programming-problems-category-wise
 
 
+// Back Tracking
+https://leetcode.com/discuss/interview-question/1098081/famous-backtracking-problems
+
+// BINARY SEARCH 
 https://leetcode.com/discuss/general-discussion/786126/python-powerful-ultimate-binary-search-template-solved-many-problems
+
+https://leetcode.com/discuss/general-discussion/1089533/An-approach-to-writing-bug-free-Binary-Search-code
+
+// Interview Prep
+https://leetcode.com/discuss/interview-question/1098600/data-structurecndbmsossystem-design
+
+https://leetcode.com/discuss/interview-question/398023/Microsoft-Online-Assessment-Questions
+
+https://leetcode.com/discuss/interview-question/352460/Google-Online-Assessment-Questions
+
+Interview Expe:
+
+https://leetcode.com/discuss/interview-experience/1093792/Amazon-or-SDE-New-Grad-or-Virtual-Onsite-or-Seattle-or-Feb-2021-Reject
+
+
+// Best Solutions in Discuss (JAVA):
+1. lee215
+2. rock
+3. jeantimex
+4. hiepit
+5. shawngao
+8. alexander
+
+
+// Best Solutions in Discuss (C++):
+1. lee215
+6. alexander
+
+
+// Best Solutions in Discuss (Python):
+1. lee215
+2. DBabichev
+3. awice
