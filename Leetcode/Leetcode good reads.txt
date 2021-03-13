@@ -15,7 +15,7 @@ https://leetcode.com/discuss/general-discussion/1089533/An-approach-to-writing-b
 
 
 // Interview Prep
-https://leetcode.com/discuss/interview-question/1098600/data-structurecndbmsossystem-design
+[data-structurecndbmsossystem-design] https://leetcode.com/discuss/interview-question/1098600/data-structurecndbmsossystem-design
 https://leetcode.com/discuss/interview-question/398023/Microsoft-Online-Assessment-Questions
 https://leetcode.com/discuss/interview-question/352460/Google-Online-Assessment-Questions
 

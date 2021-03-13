@@ -1,5 +1,5 @@
 # LeetcodeSolutions
-#### NOTE: THIS REPO IS BAISED TOWARDS THE JAVA AND THE SQL PROGRAMMING LANGUAGE, BUT OPEN TO ALL LANGUAGES. 
+#### NOTE: THIS REPO IS BIASED TOWARDS JAVA AND SQL PROGRAMMING LANGUAGE, BUT OPEN TO ALL LANGUAGES. 
 
 This is my collection of mostly Leetcode programming solutions along with other CP solutions. 
 
