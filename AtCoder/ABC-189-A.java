@@ -8,9 +8,7 @@ public class Main {
         C1 = str.charAt(0);
         C2 = str.charAt(1);
         C3 = str.charAt(2);
-
         if(C1==C2 && C2==C3) System.out.println("Won");
         else System.out.println("Lost");
-
     }
 }
