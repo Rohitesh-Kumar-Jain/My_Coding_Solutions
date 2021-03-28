@@ -22,3 +22,13 @@
 
 
     because opened will be incremented only when c =='('
+
+
+
+/**
+* Another Good thing about logical operators is to remeber thier precedence order
+*/
+
+Below are the logical operations sorted in order of decreasing their priorities in expressions: 
+
+! (NOT), ^ (XOR), && (AND), || (OR).
