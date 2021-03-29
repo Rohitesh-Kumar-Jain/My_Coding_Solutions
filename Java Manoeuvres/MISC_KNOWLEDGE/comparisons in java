@@ -1,0 +1,38 @@
+------------------------------------------------------------------------------------------------------------------------
+Summary:
+Use == or != for primitive datatypes
+Use equals() for reference datatypes, because == for reference data types compares the addresses rather than the actual
+values
+
+
+ALSO REMEMBER: Unlike primitive types, a variable of a reference type can refer to a special null value that represents
+the fact that it is not initialized yet or doesn't have a value.
+------------------------------------------------------------------------------------------------------------------------
+
+Comparing reference types using == and != is not the same as comparing primitive types.
+// https://hyperskill.org/learn/step/5035#comparisons
+
+Actually, when you are comparing two variables of the String type, it compares references (addresses) rather than actual
+ values.
+
+ ```
+String s1 = new String("java");
+String s2 = new String("java");
+String s3 = s2;
+
+System.out.println(s1 == s2); // false
+System.out.println(s2 == s3); // true
+```
+
+
+So, you should not use comparison operators when you want to compare the values. The correct way to compare content is
+to invoke the special method equals.
+
+```
+String s1 = new String("java");
+String s2 = new String("java");
+String s3 = s2;
+
+System.out.println(s1.equals(s2)); // true
+System.out.println(s2.equals(s3)); // true
+```

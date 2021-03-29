@@ -2,7 +2,7 @@ package cinema;
 
 import java.util.Scanner;
 
-public class Cinema {
+public class Stage2 {  // change class name to cinema in order to successfully submit to the task.
 
     public static void main(String[] args) {
         // Write your code here

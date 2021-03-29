@@ -1,6 +1,6 @@
 package cinema;
 
-public class Cinema {
+public class Stage1 {   // change class name to cinema in order to successfully submit to the task.
 
     public static void main(String[] args) {
         // Write your code here
