@@ -20,11 +20,6 @@ Rules for file names for leetcode folder:
 	[MEDIUM] // nothing special or new to learn in this question and it has difficulty level medium.
 	[HARD] // nothing special or new to learn in this question and it has difficulty level Hard.
 4) After the tag, write the question's name. 
-5) The file can be any language but pls don't modify files, like if you want to add cpp verison to .java file, kindly add the cpp verison below the java version and don't change it to .cpp 
-
-
-Note : While adding a solution which is not your's, give the author a credit and a link to the original solution. 
-Note: You can add manoeuvers in Java language only :sad:
 =======
 <h1><img src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif?1531849430" width="30"/> Hey! Nice to see you.</h1>
 <h3 align="center">I'm Rohitesh Kumar Jain CS Undergrad <!--  from Noida, India <img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="50" draggable="false" --></h3> 
