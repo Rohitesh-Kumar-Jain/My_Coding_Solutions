@@ -7,7 +7,41 @@ See the following example to understand the different parts of the printf() func
 System.out.printf("My Name is %s. I was born in %d", "Mike", 1998);
 
     The first part is "My Name is %s. I was born in %d", where %s and %d are the format specifiers.
-    The second part is the argument list: "Mike", 1998 .
+    The second part is the argument list: "Mike", 1998.
 
 
 
+The format() method in the String class works very much like printf() method. The main difference here is that you return a string instead of printing it. Let's see several examples.
+
+The following code formats an integer using it.
+
+public static void main(String[] args){
+    int age = 22;
+    String str = String.format("My age is %d", age);
+    System.out.println(str);
+}
+
+When you execute this code, Java will create a String called str by concatenating My age is with the value of the age variable. Then it will print the value of str. The output is:
+
+My age is 22
+
+Similarly, you can format other data types as well. See the following code.
+
+public static void main(String[] args){
+    int age = 22;
+    char initial = 'M';
+    String surname = "Anderson";
+    double height = 1.72;
+
+    String details = String.format("My name is %c. %s.%nMy age is %d.%nMy height is %.2f.", initial, surname, age, height);
+    System.out.println(details);
+}
+
+
+
+Let's summarize what we've learned in this topic.
+Format-Specifier 	datatype related 	        Format printing 	                                                    Formatting a string
+%d 	                int, short, byte, long 	    System.out.printf("Display an Integer %d",15000); 	                    String.format("Display an Integer %d",15000)
+%c 	                char 	                    System.out.printf("Display a Character %c",'c'); 	                    String.format("Display a Character %c",'c')
+%f 	                double, float 	            System.out.printf("Display a Floating-point Number %f",123.45); 	    String.format("Display a Floating-point Number %f",123.45)
+%s 	                String 	                    System.out.printf("Display a String %s","String"); 	                    String.format("Display a String %s","String")
