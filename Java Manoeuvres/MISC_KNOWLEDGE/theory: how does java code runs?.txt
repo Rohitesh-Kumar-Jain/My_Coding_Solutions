@@ -1,0 +1,19 @@
+There are special programs called compilers that transform source code into a format that the computer understands.
+ This code is called a native code or a low-level code.
+
+A compiler (for example, javac tool for Java or kotlinc tool for Kotlin) translates source code into the intermediate
+representation known as Java bytecode, which is stored in files with .class extensions. The bytecode can't be used
+with real computers but a special abstract computer called Java Virtual Machine (or JVM) can execute it.
+
+
+Before running a JVM program, an appropriate distribution of JVM should be installed on the computer. Each operating
+system has its special version of JVM. At the same time, JVM can execute a program written in a JVM language regardless
+of the type of operating system (or OS) and hardware, so the program that has the same low-level representation can be
+run on Windows, Linux, Mac OS, and other platforms.
+
+
+A Java developer writes a program in a text file or files with the .java extension. Then the compiler (usually javac)
+translates the program into a .class file that contains the bytecode of the program. JVM starts and executes the
+compiled Java program, giving low-level (native) commands to the computer. Here, we use the term 'computer' to
+represent an abstract device that can be a server, a PC, a laptop, or even a mobile device. This abstraction includes
+an operating system and hardware.

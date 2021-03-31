@@ -1,0 +1,13 @@
+The printf() method usually has two parts. First, you give the string you want to format as the first attribute.
+This string itself includes rules to format it via format specifiers. Some examples of format specifiers are %d, %s, etc.
+In the second part, you give the argument list that Java can use to format the string according to format-specifiers.
+
+See the following example to understand the different parts of the printf() function.
+
+System.out.printf("My Name is %s. I was born in %d", "Mike", 1998);
+
+    The first part is "My Name is %s. I was born in %d", where %s and %d are the format specifiers.
+    The second part is the argument list: "Mike", 1998 .
+
+
+
