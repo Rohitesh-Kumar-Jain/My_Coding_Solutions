@@ -1,18 +1,12 @@
-<<<<<<< HEAD
 # LeetcodeSolutions
-#### NOTE: THIS REPO IS BIASED TOWARDS JAVA AND SQL PROGRAMMING LANGUAGE, BUT OPEN TO ALL LANGUAGES. 
-
-This is my collection of mostly Leetcode programming solutions along with other CP solutions. 
+This is my collection of mostly Leetcode programming solutions along with other CP solutions and other Java projects. 
 
 Following Contributions are accepted in this repository : 
 
 1) Better solutions for the existing solutions are welcomed and solutions for question that I haven't solved are also welcomed.
 2) Your personal Java/MYSQL/ techniques and tricks are welcomed. 
 
-Following Contributions are not welcomed:
-1) You can contribute the other programming version of the solution but, pls don't make a separte file for it, instead write your code in that .java file and comment to indicate that this is the for e.g. Python version of the code. 
-
-Rules for file names:
+Rules for file names for leetcode folder:
 1) The file name should start with it's no, eg: 0345. , 1879. , 0069., 0007., I mean just don't forget to put leading zeros if it's less than 4 digits. 
 2) After the no there should be a dot. 
 3) After the dot add one or multiple related tags, eg [MAP][DFS][STRING].
@@ -464,4 +458,3 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
->>>>>>> 9e3032f219475019ec27f97c2f29e41cb690ad82
