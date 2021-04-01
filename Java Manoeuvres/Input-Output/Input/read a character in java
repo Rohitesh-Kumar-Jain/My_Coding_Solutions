@@ -1,0 +1,5 @@
+But there is no nextChar() method in the Scanner class to read a character in Java.
+
+    Scanner sc = new Scanner(System.in);
+    char c = sc.next().charAt(0);
+
