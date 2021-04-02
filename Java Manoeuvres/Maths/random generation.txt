@@ -1,0 +1,19 @@
+
+    Random() creates a new random generator and sets the seed of the generator to a value that is very likely to be distinct from any other invocation of this constructor:
+
+Random random = new Random();
+
+    Random(long seed) creates a new random generator with the specified initial value of its internal state:
+
+Random random = new Random(100000);
+
+
+nt nextInt() returns a pseudorandom value of the int type;
+int nextInt(int n) returns a pseudorandom value of int type in the range of from 0 (inclusive) to n (exclusive);
+long nextLong() returns a pseudorandom value of long type;
+double nextDouble() returns a pseudorandom value of double type between 0.0 and 1.0;
+void nextBytes(byte[] bytes) generates random bytes and places them into a user-supplied byte array.
+
+
+To generate a random b/w a given lower and upper bound, use:
+int next = random.nextInt(upper - lower + 1) + lower;
