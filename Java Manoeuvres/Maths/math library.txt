@@ -1,0 +1,34 @@
+Math.floor(...) returns the largest double value that is less than or equal to its argument and is equal to an integer;
+Math.ceil(...) returns the smallest double value that is greater than or equal to its argument and is equal to an integer.
+
+    double floor = Math.floor(3.78); // floor is 3.0
+    double ceil = Math.ceil(4.15); // ceil is 5.0
+
+
+
+Math.sin(...) returns the trigonometric sin of the given angle in radians;
+Math.cos(...) returns the trigonometric cos of the given angle in radians;
+
+    double sin = Math.sin(pi / 2); // sin90°  is 1.0
+    double cos = Math.cos(pi); // cos180° is -1.0
+
+Math.toRadians(...) converts an angle measured in degrees to an angle measured in radians (approximately).
+
+    double grad = Math.toRadians(30); // grad is 0.5235...
+
+
+
+
+Math.random() returns a double value with a positive sign, greater than or equal to 0.0 and less than 1.0
+
+    double random = Math.random(); // a random value >= 0.0 and < 1.0
+
+
+Math.PI is the ratio of the circumference of a circle to its diameter;
+Math.E is the base of the natural logarithm.
+
+
+
+The length of the hypotenuse: Math.hypot(a, b);
+
+

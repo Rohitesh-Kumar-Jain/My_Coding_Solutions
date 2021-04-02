@@ -1,0 +1,5 @@
+If you want to declare and initialize a float variable, you should mark the assigned value with the special letter f (float literal):
+
+float pi = 3.1415f;
+float negValue = -0.15f;
+System.out.println(pi); // 3.1415 or 3,1415 without f
