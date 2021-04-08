@@ -1,0 +1,14 @@
+If we do not write a package statement before defining our class, it will be placed inside the default package.
+This package has a big disadvantage — classes located here can't be imported to classes located inside named packages.
+
+The following class cannot be used in a class located inside packages since there is no package declaration.
+
+// no package declaration
+
+public class Person {
+    String firstName;
+    String lastName;
+}
+
+Do not use the default package for real applications. It is perfectly fine for simple, educational applications,
+like "Hello world", but more complex projects will be better in named packages.

@@ -1,0 +1,46 @@
+SUMMARY: 
+
+1) FINAL VARIABLE IN ALL CAPS
+
+2) USE DOUBLE TYPE (OVER FLOAT)
+
+3)  USE THE THIS KEYWORD.
+
+4) PACKAGE NAMES ARE ALWAYS LOWERCASE
+
+5) START YOUR PACKAGAE HIERARCHY WITH THE REVERSE DOMAIN NAME OF YOUR COMPANAY
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+A good practice is to represent a FINAL VARIABLE IN ALL CAPS using an underscore to separate words.
+It allows you to distinguish them from regular variables. But sometimes you will also see final variables, written in
+lowercase: this is also admissible for local final variables.
+
+In practice, programmers mostly USE DOUBLE TYPE (OVER FLOAT) and we recommend you to use it
+
+
+This keyword this is optional, so the code will work the same without it. But it's a good practice to add it.
+HENCE IT IS A GOOD PRACTISE TO USE THE THIS KEYWORD.
+
+
+According to the naming convention, PACKAGE NAMES ARE ALWAYS LOWERCASE, for example: model, collection, utils
+
+Do not use the default package for real applications. It is perfectly fine for simple, educational applications,
+like "Hello world", but more complex projects will be better in named packages.
+
+To avoid creating packages with the same names as other public packages it is generally recommended to START YOUR PACKAGAE HIERARCHY WITH THE REVERSE DOMAIN NAME OF YOUR COMPANAY(or another organization). For example:
+
+org.company
+org.hyperskill
+net.labs

@@ -1,3 +1,10 @@
+---------------------------------------------------------------------------------------------------------------------
+
+Source Code ----- compilers ---> (Java bytecode) ------ JVM executes ------> low-level (native commands for computer)
+
+---------------------------------------------------------------------------------------------------------------------
+
+
 There are special programs called compilers that transform source code into a format that the computer understands.
  This code is called a native code or a low-level code.
 
@@ -17,3 +24,14 @@ translates the program into a .class file that contains the bytecode of the prog
 compiled Java program, giving low-level (native) commands to the computer. Here, we use the term 'computer' to
 represent an abstract device that can be a server, a PC, a laptop, or even a mobile device. This abstraction includes
 an operating system and hardware.
+
+
+
+
+
+##Java Virtual Machine: 
+
+JVM is a virtual simulation of a physical computer. It executes Java bytecode class files (as you remember, we usually get such files by compiling a source code file of a JVM language). 
+
+
+https://ucarecdn.com/33aad287-2450-4386-8639-42c7a7eac874/

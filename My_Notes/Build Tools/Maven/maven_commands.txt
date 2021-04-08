@@ -1,0 +1,38 @@
+To generate a simple maven project:
+
+mvn archetype:generate -DarchetypeArtifactId=maven-archetype-quickstart -DarchetypeVersion=1.3 -DgroupId=com.hyperskill -DartifactId=first-maven-app -DinteractiveMode=false 
+
+
+
+Building and starting the project: 
+
+Suggested: mvn clean package.
+
+
+
+
+To build a Maven-based project, you should be inside the root directory of your project, at the same level as the pom.xml file. There are several ways to do that:
+
+    Building a project without cleaning the project and without running tests:
+
+mvn compile
+
+    Building a project without cleaning the project, but running tests:
+
+mvn package
+
+    Cleaning a project and then building (with tests):
+
+mvn clean package
+
+    Using install Instead of package:
+
+mvn clean install
+
+
+
+
+
+To start the project: 
+
+java -cp target/first-maven-app-1.0-SNAPSHOT.jar com.hyperskill.App

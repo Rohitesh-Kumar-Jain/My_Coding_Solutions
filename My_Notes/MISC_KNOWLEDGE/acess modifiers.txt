@@ -1,0 +1,5 @@
+static isn't an acces modifier.
+private - available only inside a class.
+protected - available for classes in the same package and for subclasses.
+public - available everywhere.
+"no modifier" - only available to classes in the same package

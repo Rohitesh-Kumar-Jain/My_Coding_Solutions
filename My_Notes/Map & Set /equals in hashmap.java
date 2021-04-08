@@ -11,7 +11,7 @@ if(hashmap.get(ch).equals(arr[i])){
 
 // and don't check like this 
 
-//hashmap.get(ch)==arr[i]
+//hashmap.get(ch)==arr[i], this works for only primitive data types. 
 
 
 

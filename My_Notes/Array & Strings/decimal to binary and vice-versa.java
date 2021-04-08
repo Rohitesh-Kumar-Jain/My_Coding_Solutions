@@ -4,7 +4,7 @@
 
  String binaryRep= Integer.toBinaryString(num);
 
- /*
+ 
 
 
  // and now we want to convert that string back to integer decimal than 

@@ -1,5 +1,0 @@
-A good practice is to represent a final variable in all caps using an underscore to separate words.
-It allows you to distinguish them from regular variables. But sometimes you will also see final variables, written in
-lowercase: this is also admissible for local final variables.
-
-In practice, programmers mostly use the double type (over float) and we recommend you to use it

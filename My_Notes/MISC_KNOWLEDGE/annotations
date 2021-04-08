@@ -1,0 +1,26 @@
+To mark an element (class/method/field/etc) with an annotation we need to write the symbol @ followed by the annotation name. 
+
+
+
+Java has three built-in general-purpose annotations:
+
+    @Deprecated indicates that the marked element (class, method, field and so on) is deprecated and should no longer be used. This annotation causes a compile warning if the element is used.
+
+    @SuppressWarnings instructs the compiler to disable the compile-time warnings specified in the annotation parameters. This annotation can be applied to classes, methods, fields, local variables and other elements.
+
+    @Override marks a method that overrides a superclass method. This annotation can only be applied to methods. We will consider it in a separate topic about overriding methods.
+
+
+
+Some annotations include elements and those elements have a type. For example, the annotation @SuppressWarnings has an element named value to specify what type of warning we'd like to disable.
+
+An annotation element can also be an array. Here, for instance, value is an array:
+
+
+@SuppressWarnings({"unused", "deprecation"})
+public static void method() { ... }
+
+Remember folks: the element can only be omitted if its name is "value", otherwise, you have to inform the name of the element.
+
+e.g. @CreatedBy(name = "Unknown")
+

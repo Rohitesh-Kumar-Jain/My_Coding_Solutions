@@ -1,0 +1,4 @@
+
+    it has the same name as the class that contains it;
+    it has no return type (not even void).
+
