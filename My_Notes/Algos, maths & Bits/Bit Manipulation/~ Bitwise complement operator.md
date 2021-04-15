@@ -1,4 +1,4 @@
-##In layman's perspective ` ~idx = -idx - 1`
+## In layman's perspective ` ~idx = -idx - 1`
 
 
 The one's complement operator ( ~ ), sometimes called the bitwise complement operator, yields a bitwise one's complement of its operand. That is, every bit that is 1 in the operand is 0 in the result. Conversely, every bit that is 0 in the operand is 1 in the result.

@@ -1,4 +1,4 @@
-###Left Shift Operator: 
+### Left Shift Operator: 
 ```(x << y)``` is equivalent to multiplying x with 2^y (2 raised to power y). 
 
 

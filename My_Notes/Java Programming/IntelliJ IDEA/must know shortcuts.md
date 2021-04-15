@@ -1,20 +1,23 @@
+## Good To know IntelliJIDEA Shortcuts
 
-1) ``` ⌘ Y ``` : When you use any variable, function, or method and need a tip on how it works, let the code speak for itself. Take a look at the definition with 
+### General 
 
-2) ```⌘ F ``` : Search through the current file 
+1. ``` ⌘ Y ``` : When you use any variable, function, or method and need a tip on how it works, let the code speak for itself. Take a look at the definition with 
 
-3) ``` ⌘ R ``` : Replace in the current file 
+2. ```⌘ F ``` : Search through the current file 
 
-4) ```  ⌘ B ``` : navigate to the declaration of an entity
+3. ``` ⌘ R ``` : Replace in the current file 
 
-5) ```⌘ O ``` : Navigating by name
+4. ```  ⌘ B ``` : navigate to the declaration of an entity
 
-6)  ``` ⌥ Enter ``` : Use a list of suggested fixes
+5. ```⌘ O ``` : Navigating by name
 
-###Debugging
+6.  ``` ⌥ Enter ``` : Use a list of suggested fixes
 
-1) ``` ⌘ F8 ``` Set a line breakpoint by clicking the left gutter area
+### Debugging
 
-2) ```⌃ D ``` Runs debugger
+- ``` ⌘ F8 ``` Set a line breakpoint by clicking the left gutter area
 
-3) ```⌥ F8```  open a special dialog where you can experiment with different code expressions while your program is paused
+- ```⌃ D ``` Runs debugger
+
+- ```⌥ F8```  open a special dialog where you can experiment with different code expressions while your program is paused
