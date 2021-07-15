@@ -13,6 +13,7 @@
 5. ```⌘ O ``` : Navigating by name
 
 6.  ``` ⌥ Enter ``` : Use a list of suggested fixes
+7.  ``` ⌃ ⇧ backspace``` : go to the last edit location
 
 ### Debugging
 
